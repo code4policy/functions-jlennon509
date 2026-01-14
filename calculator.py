@@ -1,5 +1,5 @@
 def multiply(a,b):
-    return 6 * 2
+    return a * b
 
 def add(a,b):
 	return a+b
